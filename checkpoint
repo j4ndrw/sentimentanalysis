@@ -1,0 +1,2 @@
+model_checkpoint_path: "reteaNeuronala.ckpt"
+all_model_checkpoint_paths: "reteaNeuronala.ckpt"
